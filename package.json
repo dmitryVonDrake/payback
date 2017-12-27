@@ -1,0 +1,22 @@
+{
+  "name": "payback",
+  "version": "0.0.1",
+  "description": "NodeJS tool to interact with ethereum smart contracts",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitryVonDrake/payback.git"
+  },
+  "author": "Dmitry Drake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitryVonDrake/payback/issues"
+  },
+  "homepage": "https://github.com/dmitryVonDrake/payback#readme"
+}
