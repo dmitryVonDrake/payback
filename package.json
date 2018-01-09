@@ -9,6 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ./lib/*.js",
+    "lint-fix": "eslint --fix ./lib/*.js",
     "precommit": "npm run lint"
   },
   "repository": {
@@ -28,7 +29,7 @@
     "web3": "^1.0.0-beta.27"
   },
   "devDependencies": {
-    "eslint": "^4.14.0",
+    "eslint": "^4.15.0",
     "husky": "^0.14.3"
   }
 }
