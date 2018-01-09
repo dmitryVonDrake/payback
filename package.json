@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/dmitryVonDrake/payback#readme",
   "dependencies": {
+    "eth-dagger": "0.0.1-beta.2",
     "ethereumjs-wallet": "^0.6.0",
     "readline": "^1.3.0",
     "truffle-wallet-provider": "0.0.5",
