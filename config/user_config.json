@@ -1,6 +1,6 @@
 {
     "private_key": "674393e0fb1cba8a71be3f1261e7171effb998bc5047ae0eee8b0e49e556e293",
-    "url": "https://rinkeby.infura.io/WTu1LsZIdygEHpUcn2Nd",
-    "address": "0x06bda3cf79946e8b32a0bb6a3daa174b577c55b5",
+    "url": "https://ropsten.infura.io/WTu1LsZIdygEHpUcn2Nd",
+    "address": "0x9195c0345c5C6b88e71E5D3693cA9f5C2cA3b335",
     "myAddress": "0x6A5e633065475393211aB623286200910F465d02"
   }
